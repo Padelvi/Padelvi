@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Padelvi
+- 👀 I’m interested in automating with python
+- 🌱 I’m currently learning django and heroku
