@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Padelvi
-- 👀 I’m interested in automating with python
-- 🌱 I’m currently learning flask and docker
+- Hi, I’m @Padelvi.
+- I’m interested in automating with python and javascript.
+- I am currently learning FastAPI and react.
+- I am very curious about typescript.
+- Also, I love using docker.
