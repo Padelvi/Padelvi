@@ -1,5 +1,6 @@
 - Hi, I’m @Padelvi.
 - I’m interested in making APIs, desktop apps, CLIs and TUIs with python.
 - I am currently learning FastAPI and GTK4.
-- I am very curious about typescript.
-- Also, I love using docker.
+- I know a lot of python, but I also have a tiny bit of knowdlege on lua, and also js and react.
+- I have used linux for a long time. After a lot of distro-hopping, I'm staying in arch.
+- At least for now, I do programming just for fun.
