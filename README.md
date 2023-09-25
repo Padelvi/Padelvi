@@ -1,5 +1,5 @@
 - Hi, I’m @Padelvi.
-- I’m interested in automating with python and javascript.
-- I am currently learning FastAPI and react.
+- I’m interested in making APIs, desktop apps, CLIs and TUIs with python.
+- I am currently learning FastAPI and GTK4.
 - I am very curious about typescript.
 - Also, I love using docker.
