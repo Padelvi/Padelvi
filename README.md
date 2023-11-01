@@ -1,6 +1,6 @@
 - Hi, I’m @Padelvi.
-- I’m interested in making APIs, desktop apps, CLIs and TUIs with python.
-- I am currently learning FastAPI and GTK4.
-- I know a lot of python, but I also have a tiny bit of knowdlege on lua, and also js and react.
+- I’m interested in making APIs, desktop apps, CLIs and TUIs with Python and Rust.
+- I am currently learning Rust.
+- I know a lot of Python, but I also know Lua a bit.
 - I have used linux for a long time. After a lot of distro-hopping, I'm staying in arch.
 - At least for now, I do programming just for fun.
